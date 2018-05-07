@@ -1,0 +1,14 @@
+.top{
+  text-align: center;
+  background-color: black; color: white;
+  padding: 20px;
+}
+.top h1{
+  font-size: 40px;
+}
+.column{
+  float: left;
+  width: auto;
+  background:#eee;
+  height: 100vh;
+}
